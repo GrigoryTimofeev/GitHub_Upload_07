@@ -1,4 +1,4 @@
-# Data Visualization in a Real Estate Market (San Francisco)
+# Application for analysis of ETF data from a SQL database.
 
 Application for analysis of ETF data from a SQL database. The key variables that were examined are average annualized returns and cumulative returns. The analysis conclusion has been presented in several interactive data figures. These figures can be accessed here within the readme as well as by running the jupyter lab notebook on your own computer.
 
